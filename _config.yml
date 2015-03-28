@@ -1,0 +1,9 @@
+# Site settings
+title: '*[developia]' # Your Title
+tagline: 'time is now!' # A brief tagline for your site
+sidebar_image: /images/cover.jpg
+
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+baseurl: "" # the subpath of your site, e.g. /blog/
