@@ -1,5 +1,6 @@
 # Site settings
 title: '*[developia]' # Your Title
+description: 'Development stories of a coutry boy!'
 tagline: 'time is now!' # A brief tagline for your site
 sidebar_image: /images/cover.jpg
 
@@ -7,3 +8,6 @@ sidebar_image: /images/cover.jpg
 markdown: redcarpet
 highlighter: pygments
 baseurl: "" # the subpath of your site, e.g. /blog/
+
+paginate: 3
+paginate_path: "/archives/page/:num"
